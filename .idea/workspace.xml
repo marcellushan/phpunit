@@ -15,12 +15,14 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="phinx.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/phinx.yml">
+      <file leaf-file-name="ValidatorTest.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/Validation/ValidatorTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="380">
+              <caret line="27" column="26" lean-forward="false" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+              <folding>
+                <element signature="e#29#52#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -32,6 +34,11 @@
       <list>
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/phinx.yml" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/Validation/Validator.php" />
+        <option value="$PROJECT_DIR$/tests/SampleTest.php" />
+        <option value="$PROJECT_DIR$/phpunit.xml" />
+        <option value="$PROJECT_DIR$/tests/Validation/ValidatorTest.php" />
       </list>
     </option>
   </component>
@@ -89,7 +96,85 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpunit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpunit" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpunit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpunit" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Validation" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpunit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpunit" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Validation" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpunit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpunit" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpunit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpunit" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -173,16 +258,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1504650717199</updated>
-      <workItem from="1504650718519" duration="926000" />
+      <workItem from="1504650718519" duration="5623000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="926000" />
+    <option name="totallyTimeSpent" value="5623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="23" width="1280" height="777" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33037156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -191,7 +276,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -252,9 +337,132 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/phinx.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="486">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding>
+            <marker date="1504652160000" expanded="true" signature="0:54" ph="paths: &lt;1 key&gt;" />
+            <marker date="1504652160000" expanded="true" signature="23:54" ph="%%PHINX_C…migrations" />
+            <marker date="1504652160000" expanded="true" signature="56:642" ph="environments: &lt;5 keys&gt;" />
+            <marker date="1504652160000" expanded="true" signature="99:107" ph="phinxlog" />
+            <marker date="1504652160000" expanded="true" signature="130:141" ph="development" />
+            <marker date="1504652160000" expanded="true" signature="146:309" ph="production: &lt;7 keys&gt;" />
+            <marker date="1504652160000" expanded="true" signature="175:180" ph="mysql" />
+            <marker date="1504652160000" expanded="true" signature="195:204" ph="localhost" />
+            <marker date="1504652160000" expanded="true" signature="219:232" ph="production_db" />
+            <marker date="1504652160000" expanded="true" signature="247:251" ph="root" />
+            <marker date="1504652160000" expanded="true" signature="266:268" ph="" />
+            <marker date="1504652160000" expanded="true" signature="283:287" ph="3306" />
+            <marker date="1504652160000" expanded="true" signature="305:309" ph="utf8" />
+            <marker date="1504652160000" expanded="true" signature="315:479" ph="development: &lt;7 keys&gt;" />
+            <marker date="1504652160000" expanded="true" signature="345:350" ph="mysql" />
+            <marker date="1504652160000" expanded="true" signature="365:374" ph="localhost" />
+            <marker date="1504652160000" expanded="true" signature="389:393" ph="acme" />
+            <marker date="1504652160000" expanded="true" signature="408:415" ph="vagrant" />
+            <marker date="1504652160000" expanded="true" signature="430:438" ph="secret" />
+            <marker date="1504652160000" expanded="true" signature="453:457" ph="3306" />
+            <marker date="1504652160000" expanded="true" signature="475:479" ph="utf8" />
+            <marker date="1504652160000" expanded="true" signature="485:642" ph="testing: &lt;7 keys&gt;" />
+            <marker date="1504652160000" expanded="true" signature="511:516" ph="mysql" />
+            <marker date="1504652160000" expanded="true" signature="531:540" ph="localhost" />
+            <marker date="1504652160000" expanded="true" signature="555:565" ph="testing_db" />
+            <marker date="1504652160000" expanded="true" signature="580:584" ph="root" />
+            <marker date="1504652160000" expanded="true" signature="599:601" ph="" />
+            <marker date="1504652160000" expanded="true" signature="616:620" ph="3306" />
+            <marker date="1504652160000" expanded="true" signature="638:642" ph="utf8" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <marker date="1451502318000" expanded="true" signature="555:683" ph="..." />
+            <marker date="1451502318000" expanded="true" signature="736:814" ph="..." />
+            <marker date="1451502318000" expanded="true" signature="822:905" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <marker date="1504660574000" expanded="true" signature="0:757" ph="{&quot;name&quot;: &quot;tsawler/acme&quot;...}" />
+            <marker date="1504660574000" expanded="true" signature="45:143" ph="[...]" />
+            <marker date="1504660574000" expanded="true" signature="55:137" ph="{&quot;name&quot;: &quot;Trevor Sawler&quot;...}" />
+            <marker date="1504660574000" expanded="true" signature="160:632" ph="{&quot;filp/whoops&quot;: &quot;^1.1&quot;...}" />
+            <marker date="1504660574000" expanded="true" signature="650:693" ph="{...}" />
+            <marker date="1504660574000" expanded="true" signature="650:755" ph="{...}" />
+            <marker date="1504660574000" expanded="true" signature="714:755" ph="{&quot;phpunit/phpunit&quot;: &quot;^6.3&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Validation/Validator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-960">
+          <caret line="48" column="47" lean-forward="false" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
+          <folding>
+            <marker date="1504653456000" expanded="false" signature="38:146" ph="..." />
+            <marker date="1504653456000" expanded="true" signature="151:200" ph=" Class Validator ..." />
+            <marker date="1504653456000" expanded="true" signature="220:3194" ph="..." />
+            <marker date="1504653456000" expanded="true" signature="327:352" ph=" constructor ..." />
+            <marker date="1504653456000" expanded="true" signature="424:548" ph="{...}" />
+            <marker date="1504653456000" expanded="true" signature="557:615" ph=" @param $validation_data ..." />
+            <marker date="1504653456000" expanded="true" signature="661:2462" ph="{...}" />
+            <marker date="1504653456000" expanded="true" signature="747:2429" ph="..." />
+            <marker date="1504653456000" expanded="true" signature="832:2419" ph="..." />
+            <marker date="1504653456000" expanded="true" signature="922:2405" ph="..." />
+            <marker date="1504653456000" expanded="true" signature="954:1269" ph="..." />
+            <marker date="1504653456000" expanded="true" signature="1113:1237" ph="..." />
+            <marker date="1504653456000" expanded="true" signature="1304:1531" ph="..." />
+            <marker date="1504653456000" expanded="true" signature="1399:1499" ph="..." />
+            <marker date="1504653456000" expanded="true" signature="1568:1840" ph="..." />
+            <marker date="1504653456000" expanded="true" signature="1699:1808" ph="..." />
+            <marker date="1504653456000" expanded="true" signature="1876:2303" ph="..." />
+            <marker date="1504653456000" expanded="true" signature="2140:2271" ph="..." />
+            <marker date="1504653456000" expanded="true" signature="2333:2388" ph="..." />
+            <marker date="1504653456000" expanded="true" signature="2472:2519" ph=" @param $rules ..." />
+            <marker date="1504653456000" expanded="true" signature="2564:2943" ph="{...}" />
+            <marker date="1504653456000" expanded="true" signature="2646:2858" ph="..." />
+            <marker date="1504653456000" expanded="true" signature="2866:2936" ph="..." />
+            <marker date="1504653456000" expanded="true" signature="2953:2980" ph=" @return mixed ..." />
+            <marker date="1504653456000" expanded="true" signature="3015:3058" ph="{...}" />
+            <marker date="1504653456000" expanded="true" signature="3067:3102" ph=" @param mixed $isValid ..." />
+            <marker date="1504653456000" expanded="true" signature="3145:3192" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/SampleTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1504662467000" expanded="true" signature="223:327" ph="{...}" />
+            <marker date="1504662467000" expanded="true" signature="261:324" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/Validation/ValidatorTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="27" column="26" lean-forward="false" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+          <folding>
+            <element signature="e#29#52#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
